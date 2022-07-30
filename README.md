@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dharanichinnappan
 - 👀 I’m interested in Java and frontend development  
 - 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at dharanichinnappan@gmail.com  ...
 
 <!---
