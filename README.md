@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dharanichinnappan
-- 👀 I’m interested in Java and frontend development  
-- 🌱 I’m currently learning SpringBoot
+- 👀 I’m interested in Java and frontend development 
+- I have developed Frontend Projects - https://github.com/dharanichinnappan/dharanichinnappan.github.io
+- 🌱 I’m currently learning SpringBoot 
 - 📫 Reach me at dharanichinnappan@gmail.com  ...
 
 <!---
